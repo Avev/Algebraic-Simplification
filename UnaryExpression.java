@@ -1,9 +1,6 @@
 import java.util.LinkedList;
 import java.util.List;
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
+
 public abstract class UnaryExpression extends BaseExpression {
     // field
     private Expression exp;
