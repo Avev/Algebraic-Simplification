@@ -1,8 +1,5 @@
 import java.util.Map;
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
+
 public class Cos extends UnaryExpression {
     /**
      * constructor.
