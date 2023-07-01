@@ -1,10 +1,6 @@
 import java.util.Map;
 import java.util.List;
 
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
 public interface Expression {
 
 
