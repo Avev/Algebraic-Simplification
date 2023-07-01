@@ -1,10 +1,6 @@
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
 public class ExpressionTest {
     /**
      * main function.
