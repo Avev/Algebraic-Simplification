@@ -3,10 +3,6 @@ import java.util.Map;
 import java.util.ArrayList;
 import java.util.TreeMap;
 
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
 public class Var implements Expression {
     // field
     private String var1;
