@@ -1,10 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
+
 public class Num implements Expression {
     // field
     private double num;
