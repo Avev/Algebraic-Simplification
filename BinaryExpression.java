@@ -1,9 +1,6 @@
 import java.util.LinkedList;
 import java.util.List;
-/**
- * 316266683.
- * @author Aviv Rahamim
- */
+
 public abstract class BinaryExpression extends BaseExpression {
     // field
     private Expression leftExp;
